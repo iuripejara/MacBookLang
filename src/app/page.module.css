@@ -1,0 +1,14 @@
+.topo{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100vh; /* Garante que a div ocupe toda a altura da tela */
+   
+}
+.textTopo{
+    font-size: 3rem;
+}
+.textH3{
+    margin-bottom: 3rem;
+    font-size: 1.2rem;
+}
