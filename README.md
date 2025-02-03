@@ -14,30 +14,25 @@ Este é um projeto desenvolvido em Next.js com Tailwind CSS, apresentando uma p�
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/iuripejara/MacBookLang.git
    ```
 
 2. Acesse o diretório do projeto:
    ```sh
-   cd nome-do-repo
+   cd MacBookLang
    ```
 
-3. Instale as dependências:
-   ```sh
-   npm install
-   ```
 
-4. Execute o projeto em modo de desenvolvimento:
+3. Execute o projeto em modo de desenvolvimento:
    ```sh
    npm run dev
    ```
 
-5. Abra o navegador e acesse `http://localhost:3000`
+4. Abra o navegador e acesse `http://localhost:3000`
 
 ## Estrutura do Projeto
 
 ```
-├── public/              # Arquivos estáticos
 ├── src/
 │   ├── app/
 │   │   ├── page.js      # Componente principal da página
@@ -66,5 +61,5 @@ Este projeto é de uso livre. Sinta-se à vontade para modificá-lo e adaptá-lo
 
 ---
 
-Feito com ❤ por [Seu Nome]
+Feito com ❤ por Iuri Pejara
 
